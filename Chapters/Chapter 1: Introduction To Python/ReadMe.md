@@ -7,15 +7,15 @@
 1.3. The Building Blocks of Programs
 
 1.4 Variables, expressions and statements 
-  1.4.1. Values and types
-  1.4.2. Variables
-  1.4.3. Variable names and keywords
-  1.4.4. Statements
-  1.4.5. Operators and Operands
-  1.4.6. Expressions
-  1.4.7. String Operations
-  1.4.8. Asing the User for Input
-  1.4.9. Comments
+  1. Values and types
+  2. Variables
+  3. Variable names and keywords
+  4. Statements
+  5. Operators and Operands
+  6. Expressions
+  7. String Operations
+  8. Asing the User for Input
+  9. Comments
   
 1.5. Conditionals
   1.5.1. Boolean Expressions
