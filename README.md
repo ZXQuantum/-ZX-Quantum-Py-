@@ -1,6 +1,7 @@
 # <ZX|Quantum|Py>
 
 ![ZXCalculus](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo/blob/main/Images/image1.jpeg)
+
 # ZX-Calculus
 This is an attempt to provide an online as well as an application platform for everyone who is interested and is willing to start and enter the world of **Quantum Computing**. *ZX Calculus* is the main topic and an extremely newer branch of Quantum Computing, *ZX Calculus* is a graphical language that is used to solve higher order Quantum Circuits with a maximum efficiency and making the tedious and critical job extremely simple. 
 
@@ -13,16 +14,21 @@ If you wish to use PyZX as a Python module for use in other projects, we recomme
     pip install pyzx
 ```
 
-PyZX has no strict dependencies, although some functionality requires numpy. PyZX is built to interact well with Jupyter, so we additionally recommend you have Jupyter and matplotlib installed.
+PyZX has no strict dependencies, although some functionality requires numpy. PyZX is built to interact well with Jupyter, so we additionally recommend you have Jupyter Notebook and matplotlib installed.
+If you wish you can install matplotlib we recommend it installing via pip:
+```
+    pip install matplotlib
+```
+If you wish to install Jupyter Notebook you can go to [Anaconda](https://www.anaconda.com/products/individual) and download it for rnning Jupyter Notebook.
 
 ### *Context*
 You can visit our [Git Hub Page](https://github.com/ZXQuantum/-ZX-Quantum-Py-) for an organised view.
 The contents listed and that would be covered are -
 1. [Chapters](https://github.com/ZXQuantum/-ZX-Quantum-Py-/tree/main/Chapters) explaining the theoretical and mathematical models.
-2. [Codes](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo/tree/main/Codes) codes for the same exercises are mentioned. 
+2. [Codes](https://github.com/ZXQuantum/-ZX-Quantum-Py-/tree/main/Codes) codes for the same exercises are mentioned. 
 
 ## *CONTACT US*
-You can contact us anytime and we will try our best to respond as quickly is possible. If you wish to contact us you can contact us through the following mail id blah@blah.blah or fill up the following form. 
+You can contact us anytime and we will try our best to respond as quickly is possible. If you wish to contact us you can contact us through the following mail id zxquantumpy@gmail.com or fill up the following form. 
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xayapkqa" method="post">
   <fieldset id="fs-frm-inputs">
