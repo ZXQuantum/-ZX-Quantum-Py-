@@ -18,38 +18,38 @@
   9. Comments
   
 1.5. Conditionals
-  1.5.1. Boolean Expressions
-  1.5.2. Logical Operators
-  1.5.3. Conditional Executions
+  1. Boolean Expressions
+  2. Logical Operators
+  3. Conditional Executions
   
 1.6. Alternative Execution (if, else)
-  1.6.1. Chained Conditionals (if, else, eslif)
-  1.6.2. Nested Conditionals
+  1. Chained Conditionals (if, else, eslif)
+  2. Nested Conditionals
   
 1.7. Functions
-  1.7.1. Function Calls
-  1.7.2. Built in Functions
-  1.7.3. Type Conversion Functions
-  1.7.4. Math Functions
-  1.7.5. Random Numbers
-  1.7.6. Adding New Functions (def)
-  1.7.7. Why Functions?
+  1. Function Calls
+  2. Built in Functions
+  3. Type Conversion Functions
+  4. Math Functions
+  5. Random Numbers
+  6. Adding New Functions (def)
+  7. Why Functions?
   
 1.8. Iterations
-  1.8.1. Updating Variables
-  1.8.2. The While Statement
-  1.8.3. Defination for loops
+  1. Updating Variables
+  2. The While Statement
+  3. Defination for loops
   
 1.9. Strings
-  1.9.1. What is a String?
-  1.9.2. Length of a string(len)
-  1.9.3. Slicing Strings
-  1.9.4. The in Operator
-  1.9.5. String Comparision(==)
+  1. What is a String?
+  2. Length of a string(len)
+  3. Slicing Strings
+  4. The in Operator
+  5. String Comparision(==)
   
 1.10. Lists
-  1.10.1. What is a List?
-  1.10.2. List Operations
+  1. What is a List?
+  2. List Operations
 
 1.11. Dictionaries
 
