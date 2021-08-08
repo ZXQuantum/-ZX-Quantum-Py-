@@ -1,6 +1,6 @@
 # <ZX|Quantum|Py>
 
-![ZXCalculus](https://github.com/ZXQuantum/-ZX-Quantum-Py-/blob/main/ZX%20Calculus%20LOGO.jpeg)
+![ZXCalculus](https://github.com/ZXQuantum/-ZX-Quantum-Py-/blob/main/ZX%20Calculus%20Image.jpeg)
 
 # ZX-Calculus
 This is an attempt to provide an online as well as an application platform for everyone who is interested and is willing to start and enter the world of **Quantum Computing**. *ZX Calculus* is the main topic and an extremely newer branch of Quantum Computing, *ZX Calculus* is a graphical language that is used to solve higher order Quantum Circuits with a maximum efficiency and making the tedious and critical job extremely simple. 
