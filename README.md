@@ -1,4 +1,3 @@
-updated
 # <ZX|Quantum|Py>
 
 ![ZXCalculus](https://qworld.net/wp-content/uploads/2021/04/top_QIntern2021.jpg)
