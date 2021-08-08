@@ -1,6 +1,6 @@
 # <ZX|Quantum|Py>
 
-![ZXCalculus](blob:https://web.whatsapp.com/160e3118-f795-4157-8301-5bd5dd1caff4)
+![ZXCalculus](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo/blob/main/Images/image1.jpeg)
 # ZX-Calculus-demo
 This is an attempt to provide an online as well as an application platform for everyone who is interested and is willing to start and enter the world of **Quantum Computing**. *ZX Calculus* is the main topic and an extremely newer branch of Quantum Computing, *ZX Calculus* is a graphical language that is used to solve higher order Quantum Circuits with a maximum efficiency and making the tedious and critical job extremely simple. 
 
