@@ -1,7 +1,7 @@
 # <ZX|Quantum|Py>
 
 ![ZXCalculus](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo/blob/main/Images/image1.jpeg)
-# ZX-Calculus-demo
+# ZX-Calculus
 This is an attempt to provide an online as well as an application platform for everyone who is interested and is willing to start and enter the world of **Quantum Computing**. *ZX Calculus* is the main topic and an extremely newer branch of Quantum Computing, *ZX Calculus* is a graphical language that is used to solve higher order Quantum Circuits with a maximum efficiency and making the tedious and critical job extremely simple. 
 
 ## *ZX CALCULUS*
@@ -18,7 +18,7 @@ PyZX has no strict dependencies, although some functionality requires numpy. PyZ
 ### *Context*
 You can visit our [Git Hub Page](https://github.com/ZXQuantum/-ZX-Quantum-Py-) for an organised view.
 The contents listed and that would be covered are -
-1. [Chapters](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo/tree/main/Chapters) explaining the theoretical and mathematical models.
+1. [Chapters](https://github.com/ZXQuantum/-ZX-Quantum-Py-/tree/main/Chapters) explaining the theoretical and mathematical models.
 2. [Codes](https://github.com/Phoenix9801/QIntern-ZX-Calculus-demo/tree/main/Codes) codes for the same exercises are mentioned. 
 
 ## *CONTACT US*
